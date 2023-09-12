@@ -15,7 +15,7 @@ body {
   justify-content: space-evenly;
   flex-direction: column;
   background: #CEC8BC;
-  height: 20rem;
+  height: 15rem;
   position: sticky;
   top: 0;
 }
@@ -114,7 +114,7 @@ body {
 .footer {
   display: flex;
   flex-direction: column;
-  height: 15vh;
+  height: 100%;
   padding: 10px;
   background: linear-gradient(225deg, rgba(122, 110, 81, 0.737254902) 40%, #cec8bc, rgba(122, 110, 81, 0.737254902) 40%);
 }
